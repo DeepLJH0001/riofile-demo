@@ -3,4 +3,4 @@ services:
    image: ./
    scale: 2
    ports:
-   - 80/http
+   - 8080/http
